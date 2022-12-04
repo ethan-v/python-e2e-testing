@@ -1,0 +1,1 @@
+REST_API_BASE_URL: str = 'https://api.ethanvu.dev'
