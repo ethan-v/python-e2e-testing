@@ -1,1 +1,1 @@
-REST_API_BASE_URL: str = 'https://abackendguru.com'
+REST_API_BASE_URL: str = 'https://ethanvu.dev'
